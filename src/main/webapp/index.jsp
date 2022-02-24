@@ -17,7 +17,7 @@ cellspacing="2">
 
 <tr>
 <td colspan=2>
-<center><font size=4><b>University Registration Form</b></font></center>
+<center><font size=4><b>College Registration Form</b></font></center>
 </td>
 </tr>
 
@@ -27,7 +27,7 @@ cellspacing="2">
 </tr>
 
 <tr>
-<td>Dad's Name</td>
+<td>Father Name</td>
 <td><input type="text" name="fathername" id="fathername"
 size="30"></td>
 </tr>
